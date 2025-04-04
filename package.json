@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backend": "file:",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.21.2",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.15",
+    "random-words": "^1.1.2",
+    "socket.io": "^4.5.1",
+    "uniqid": "^5.4.0",
+    "uuid": "^8.3.2"
+  }
+}
